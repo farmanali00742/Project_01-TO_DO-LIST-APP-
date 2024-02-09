@@ -20,7 +20,7 @@ Welcome to TodoListApp! This is a simple todo list application built to help you
 
 1. Clone the repository to your local machine.
    ```bash
-  [ git clone https://github.com/your_username/TodoListApp.git](https://github.com/dashboard)
+  https://github.com/farmanali00742/Project_01-TO_DO-LIST-APP-.git
    ```
 2. Open the project in your preferred IDE or text editor.
 3. Run the project on an emulator or a physical device.
